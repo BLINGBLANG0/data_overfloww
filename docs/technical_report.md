@@ -384,4 +384,3 @@ Docker Compose
 
 ---
 
-*Report generated for DataQuest Hackathon — Insurance Recommender System*
